@@ -24,7 +24,7 @@ public class Diamond {
 	            System.out.println(" ");
 	        }
 	        
-	        //column
+	        // inverse column
 	        for (int i = 6; i >=0 ; i--) 
 	        {
 	        	//gap
