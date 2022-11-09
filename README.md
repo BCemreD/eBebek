@@ -17,4 +17,6 @@ Project4.java is exponential numbers by using given numbers. For loop is used.
 
 Harmonic.java takes a number from user and calculate its harmonic result.
 
+ATM.java  => Basic ATM simulation. checking auth. offer four options and taking action accordingly
+
 */
