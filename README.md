@@ -19,4 +19,6 @@ Harmonic.java takes a number from user and calculate its harmonic result.
 
 ATM.java  => Basic ATM simulation. checking auth. offer four options and taking action accordingly
 
+AdvancedCalculator.java /added mod and rectangular methods on a written calculator project. sum and multiply methods fixed because of unbrakable loop.
+
 */
