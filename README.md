@@ -21,4 +21,6 @@ ATM.java  => Basic ATM simulation. checking auth. offer four options and taking 
 
 AdvancedCalculator.java /added mod and rectangular methods on a written calculator project. sum and multiply methods fixed because of unbrakable loop.
 
+MinMax.java takes input from the user, and decides min and max values.
+
 */
