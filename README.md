@@ -23,4 +23,6 @@ AdvancedCalculator.java /added mod and rectangular methods on a written calculat
 
 MinMax.java takes input from the user, and decides min and max values.
 
+RecursivePower.java , recursive method for exponentials
+
 */
