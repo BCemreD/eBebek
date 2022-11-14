@@ -40,6 +40,8 @@ Project3.java combination calculating with for loop.
 
 Project4.java is exponential numbers by using given numbers. For loop is used.
 
+RecursiveLoop.java returns a recursive loop by taking a number and deduct 5 from it until it equals or smaller than 0, then add 5.
+
 RecursivePower.java , recursive method for exponentials
 
 */
