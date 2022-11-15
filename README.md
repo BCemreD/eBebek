@@ -44,4 +44,6 @@ RecursiveLoop.java returns a recursive loop by taking a number and deduct 5 from
 
 RecursivePower.java , recursive method for exponentials
 
+RecursivePrime.java is taking a number from the user and checking whether it is prime or not with a recursive method.
+
 */
