@@ -18,7 +18,7 @@ public class RecursiveLoop {
 		System.out.println("Enter numbers");
 		int rc = inp.nextInt();//taking number for operation
 				
-		System.out.println(recurs (recurs(rc)));
+		System.out.println(recurs(rc));
 	
 	} 
 
