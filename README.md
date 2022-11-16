@@ -1,5 +1,6 @@
 # eBebek
 projects for Patika -  eBebek Practicum
+https://app.patika.dev/BCemreD
 
 /* 
 AdvancedCalculator.java /added mod and rectangular methods on a written calculator project. sum and multiply methods fixed because of unbrakable loop.
