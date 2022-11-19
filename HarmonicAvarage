@@ -1,19 +1,15 @@
-import java.util.Scanner;
-
 public class HarmonicAvarage {
 
 	public static void main(String[] args) {
 		// find harmonic numbers
-		Scanner inp = new Scanner (System.in);
-		
-		System.out.println("Enter number: ");
-		int number = inp.nextInt();
+
+		int [] number = {1,2,3,4,5};
 		double result = 0.0;
 		
-		for (double i = 1; i <= number; i++)
+		for (double i = 1; i <= number.length; i++)
 		{
 			result += (1/i);
 		}
-		System.out.println(result / number);
+		System.out.println(result / number.length);
 	}
 }
