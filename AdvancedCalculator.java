@@ -199,6 +199,7 @@ public class AdvancedCalculator
 	                    	break;
 	                    case 8:
 	                    	rectangular();
+				break;
 	                    case 0:
 	                        break;
 	                    default:
