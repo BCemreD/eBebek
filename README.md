@@ -1,5 +1,5 @@
 # eBebek
-projects for Patika -  eBebek Practicum
+30 little projects with Java w/o any tech or lib. for Patika -  eBebek Practicum
 https://app.patika.dev/BCemreD
 
 /* 
