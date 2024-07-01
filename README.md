@@ -1,6 +1,10 @@
-# eBebek
+# eBebek Java & QA & SAP Spartacus Practicum | November 2022 - December 2022
 30 little projects with Java w/o any tech or lib. for Patika -  eBebek Practicum
 https://app.patika.dev/BCemreD
+
+- Gained hands-on experience with Java, Selenium, Solr, and SAP Spartacus through project tasks and online courses.
+- Participated in collaborative testing activities and honed communication skills within a team environment.
+- Built 30 mini-projects focusing on algorithms and backend development using Java.
 
 /* 
 AdvancedCalculator.java /added mod and rectangular methods on a written calculator project. sum and multiply methods fixed because of unbrakable loop.
